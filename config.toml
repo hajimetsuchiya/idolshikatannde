@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "idol is my life!"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
+publishDir = "docs"
 theme = "ananke"
 [taxonomies]
 tag = "tags"
